@@ -1,7 +1,7 @@
 # Fraud Detection API — Step-by-Step Guide
-### Built from your IT 7103 Bank Account Fraud Detection notebook
+### Built from my IT 7103 Bank Account Fraud Detection notebook
 
-Follow the steps in order — the understanding comes from doing it once and seeing it work.
+Follow the steps in order if you want to reproduce this work.
 
 ## Part 1: Export your trained model from Colab
 
